@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["freebridge", "lesauf"]
+  "cSpell.words": ["freebridge", "lesauf"],
+  "jest.jestCommandLine": "npm run test --"
 }

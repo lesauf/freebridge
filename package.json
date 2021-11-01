@@ -29,10 +29,14 @@
     "@nativescript/types": "~8.1.1",
     "@nativescript/webpack": "~5.0.0",
     "@ngtools/webpack": "^12.2.0",
+    "@schematics/angular": "^12.2.12",
     "@types/jest": "^27.0.2",
     "jest": "^27.3.1",
     "jest-preset-angular": "^10.1.0",
     "ts-jest": "^27.0.7",
     "typescript": "~4.3.5"
+  },
+  "nativescript": {
+    "id": "com.lesauf.freebridge"
   }
 }
